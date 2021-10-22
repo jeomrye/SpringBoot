@@ -7,6 +7,6 @@
 <title>Main</title>
 </head>
 <body>
-Model And View
+<h1 style=background:red>안녕하세요</h1>
 </body>
 </html>
